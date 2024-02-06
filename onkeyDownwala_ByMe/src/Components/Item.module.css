@@ -1,0 +1,15 @@
+.kg-item{
+    
+    list-style-type: none;
+    font-weight: bold;
+    
+  }
+.kg-span{
+    font-weight: 500;
+    color: white;
+  }
+
+  .button{
+    float: right;
+    
+  }
